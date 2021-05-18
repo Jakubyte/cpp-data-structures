@@ -3,6 +3,7 @@
 
 namespace Jakubyte
 {
+    // TODO - change to use std::size_t
     typedef unsigned long long size_t;
 
     template <typename T>
