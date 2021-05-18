@@ -1,5 +1,5 @@
 # cpp-data-structures
-My own implementation of various algorithms in C++
+My own implementation of various data structures in C++
 
 ## Currently working on
 LinkedList
